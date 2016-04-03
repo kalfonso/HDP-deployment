@@ -5,7 +5,7 @@
       "configurations" : [
         {
           "global" : {
-            "nagios_contact": "raov@avalonconsult.com",
+            "nagios_contact": "pepito.perez@gmail.com",
             "nagios_web_password": "password"
           }
         }
@@ -16,7 +16,7 @@
         },
         {
           "name" : "SECONDARY_NAMENODE"
-        },       
+        },
         {
           "name" : "RESOURCEMANAGER"
         },
@@ -77,6 +77,6 @@
   ],
   "Blueprints" : {
     "stack_name" : "HDP",
-    "stack_version" : "2.1"
+    "stack_version" : "2.4"
   }
 }
